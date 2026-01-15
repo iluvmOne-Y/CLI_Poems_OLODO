@@ -1,5 +1,5 @@
 # 📝 Tuyển tập thơ Đại thi hào Ô LÔ ĐÔ (CLI Edition)
-##Note: Khuyến khích mng góp thơ vào tập thơ **comTrangCaoBoCollection.txt**
+## Note: Khuyến khích mng góp thơ vào tập thơ **comTrangCaoBoCollection.txt**
 Ứng dụng dòng lệnh (CLI) được viết bằng **Go**.
 
 ## Hướng dẫn chạy chương trình
