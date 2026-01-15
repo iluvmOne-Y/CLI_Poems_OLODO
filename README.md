@@ -26,8 +26,6 @@ Khi chương trình khởi chạy, bạn sẽ thấy yêu cầu nhập dữ li�
 
 ## 🖼️ Demo hình ảnh
 
-![demo1](demo/demo1.png)
-
 ![demo2](demo/demo2.png)
 
 ## 📚 Tài liệu tham khảo (References)
